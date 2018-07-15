@@ -56,6 +56,7 @@ class App {
             alert('repositorio nao existe');
         }
 
+        
         this.setLoading(false);
     }
 
